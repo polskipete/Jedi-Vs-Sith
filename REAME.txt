@@ -3,7 +3,7 @@ Load mod and go into multiplayer
 Pick LAN server, connect by host IP if not shown on LAN server select
 To host one must turn off pure servers and punkbuster.
 Turn on Buy Option
-Anything but tonrey works
+Anything but tourney works
 Launch Game
 Set keybind to buymenu, 'B' works
 Shotgun: Jedi Load Out/ Lighting: Sith Loadout, in buy menu
